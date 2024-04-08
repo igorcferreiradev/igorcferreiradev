@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 Hello! I'm Igor 👋
 💻 Currently taking a course on general programming and information systems.
-<br> 🎮 I like plants, videogames and design.
+<br> 🎮 I like plants and videogames.
 <br> 📫 How to reach me: igorcferreiradev@gmail.com
 
 
