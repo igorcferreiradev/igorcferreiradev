@@ -1,5 +1,5 @@
 # 💫 Hello! I'm Igor 👋
-💻 Currently taking a course on general programming and information systems.
+💻 Currently taking a course on Specialist Technician in Information Systems Technologies and Programming.
 <br> 🎮 I like plants and videogames.
 <br> 📫 How to reach me: igorcferreiradev@gmail.com
 
