@@ -1,10 +1,10 @@
-<h1>💫 Hello! I'm Igor 
+<h1>Hello! I'm Igor 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif">
     <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" alt="Waving Hand">
   </a>
 </h1>
 
-<img align="right" width="300" alt="synthwave computer animated" src="https://github.com/igorcferreiradev/igorcferreiradev/assets/152277299/f47abd0b-4ad6-42e2-9ae5-d1e676ffb43f">
+<h3>💫 About me:</h3>
 
 <p>💻 I am currently taking a course in <strong>Specialist Technician in Information Systems Technologies and Programming</strong>.</p>
 <p>🎮 My interests include <strong>plants</strong> and <strong>video games</strong>.</p>
@@ -35,3 +35,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<img align="left" width="300" alt="synthwave computer animated" src="https://github.com/igorcferreiradev/igorcferreiradev/assets/152277299/f47abd0b-4ad6-42e2-9ae5-d1e676ffb43f">
