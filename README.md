@@ -6,7 +6,7 @@
 
 <h3>💫 About me:</h3>
 
-<p>💻 I am currently taking a course in <strong>Specialist Technician in Information Systems Technologies and Programming</strong>.</p>
+<p>💻 I am currently learning about information systems and programming.</p>
 <p>🎮 My interests include <strong>plants</strong> and <strong>video games</strong>.</p>
 <p>📫 Feel free to reach me at: <a href="mailto:igorcferreiradev@gmail.com">igorcferreiradev@gmail.com</a></p>
 
